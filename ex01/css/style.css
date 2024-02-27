@@ -3,7 +3,9 @@ body{
 
 }
 
-table{width: 400px; border-collapse: collapse}
+table{width: 400px; border-collapse: collapse; width: 400px; height: 400px;}
 td{
+    
+    text-align: center;
     border: 1px solid black;
 }
